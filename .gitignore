@@ -4,3 +4,6 @@ setup_env.sh
 week*/my_keras_tuner/
 week*/EuroSAT/
 week*/EuroSAT_backup/
+week*/images/
+week*/labels/
+CNN_images/
